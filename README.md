@@ -8,5 +8,5 @@ The scripts are for educational and ethical security research purposes only. The
 All scripts include a set of instructions. To view them, simply run the script without any arguments.
 
 ```bash
-./script_name.sh
+./script_name.py
 ```
